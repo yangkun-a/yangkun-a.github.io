@@ -1,12 +1,13 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Kun Yang"
   navbar:
     left:
       - text: "About You"
-        href: index.qmd
+        href: about.qmd
       - text: "Projects"
         href: projects.qmd
       - text: "CV"

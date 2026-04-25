@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "View Project\nThis project analyzes job postings data to understand salary trends and skill demand."
+  },
+  {
+    "objectID": "projects.html#ad688-employability-project",
+    "href": "projects.html#ad688-employability-project",
+    "title": "Projects",
+    "section": "",
+    "text": "View Project\nThis project analyzes job postings data to understand salary trends and skill demand."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "You can download my CV using the link below.\nDownload My CV\n\n\nI am interested in business analytics, data science, and applied machine learning. My academic and project experience includes data cleaning, visualization, statistical analysis, and machine learning applications."
+  },
+  {
+    "objectID": "cv.html#professional-background",
+    "href": "cv.html#professional-background",
+    "title": "CV",
+    "section": "",
+    "text": "I am interested in business analytics, data science, and applied machine learning. My academic and project experience includes data cleaning, visualization, statistical analysis, and machine learning applications."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a graduate student in Applied Business Analytics at Boston University, with a Bachelor of Science in Mathematics from Rensselaer Polytechnic Institute. My academic background combines strong quantitative skills with practical experience in data analysis and business applications.\n\n\n\nBoston University — M.S. in Applied Business Analytics\n\nRensselaer Polytechnic Institute — B.S. in Mathematics, Minor in Psychology\n\nMy coursework includes business analytics, data mining, machine learning, SQL, and statistical modeling.\n\n\n\nI have gained hands-on experience through multiple internships in data analysis and business analytics.\n\n\n\nProcessed over 19,000+ data records using SQL and Python\n\nPerformed data cleaning, feature selection, and business analysis\n\nBuilt dashboards and visualizations using Excel and Tableau\n\nDelivered actionable strategies to improve marketing and sales performance\n\n\n\n\n\nCollected and analyzed automotive user review data\n\nApplied NLP techniques to improve model accuracy from 65% to 86%\n\nIdentified data issues and improved dataset quality\n\n\n\n\n\nBuilt machine learning models using PyTorch\n\nDeveloped neural network models for image recognition\n\nApplied deep learning to remote sensing data\n\n\n\n\n\n\nProgramming: Python, R, SQL\n\nData Analysis: Data Cleaning, Statistical Modeling, Machine Learning\n\nVisualization: Tableau, Excel\n\nTools: Quarto, GitHub\n\n\n\n\nI am particularly interested in:\n\nBusiness analytics and decision-making\n\nJob market and salary analysis\n\nMachine learning applications\n\nData-driven strategy\n\n\n\n\nMy goal is to become a data analyst or data scientist, applying analytical and machine learning techniques to solve real-world business problems and support data-driven decision making."
+  },
+  {
+    "objectID": "about.html#academic-background",
+    "href": "about.html#academic-background",
+    "title": "About Me",
+    "section": "",
+    "text": "Boston University — M.S. in Applied Business Analytics\n\nRensselaer Polytechnic Institute — B.S. in Mathematics, Minor in Psychology\n\nMy coursework includes business analytics, data mining, machine learning, SQL, and statistical modeling."
+  },
+  {
+    "objectID": "about.html#professional-experience",
+    "href": "about.html#professional-experience",
+    "title": "About Me",
+    "section": "",
+    "text": "I have gained hands-on experience through multiple internships in data analysis and business analytics.\n\n\n\nProcessed over 19,000+ data records using SQL and Python\n\nPerformed data cleaning, feature selection, and business analysis\n\nBuilt dashboards and visualizations using Excel and Tableau\n\nDelivered actionable strategies to improve marketing and sales performance\n\n\n\n\n\nCollected and analyzed automotive user review data\n\nApplied NLP techniques to improve model accuracy from 65% to 86%\n\nIdentified data issues and improved dataset quality\n\n\n\n\n\nBuilt machine learning models using PyTorch\n\nDeveloped neural network models for image recognition\n\nApplied deep learning to remote sensing data"
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About Me",
+    "section": "",
+    "text": "Programming: Python, R, SQL\n\nData Analysis: Data Cleaning, Statistical Modeling, Machine Learning\n\nVisualization: Tableau, Excel\n\nTools: Quarto, GitHub"
+  },
+  {
+    "objectID": "about.html#interests",
+    "href": "about.html#interests",
+    "title": "About Me",
+    "section": "",
+    "text": "I am particularly interested in:\n\nBusiness analytics and decision-making\n\nJob market and salary analysis\n\nMachine learning applications\n\nData-driven strategy"
+  },
+  {
+    "objectID": "about.html#career-goals",
+    "href": "about.html#career-goals",
+    "title": "About Me",
+    "section": "",
+    "text": "My goal is to become a data analyst or data scientist, applying analytical and machine learning techniques to solve real-world business problems and support data-driven decision making."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact\nEmail: yangkun@bu.edu GitHub: https://github.com/yangkun-a"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Kun Yang\nWelcome to my personal portfolio website.\nI am a graduate student in Applied Business Analytics at Boston University, with a strong background in mathematics and data analysis. My interests focus on business analytics, data science, and machine learning.\nI have experience in data cleaning, statistical analysis, and data visualization, and I enjoy using data to solve real-world business problems.\nExplore my projects, CV, and contact information using the navigation bar above."
+  }
+]
