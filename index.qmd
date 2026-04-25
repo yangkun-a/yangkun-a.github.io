@@ -1,7 +1,13 @@
 ---
-title: "y"
+title: "Home"
 ---
 
-This is a Quarto website.
+# Kun Yang
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Welcome to my personal portfolio website.
+
+I am a graduate student in Applied Business Analytics at Boston University, with a strong background in mathematics and data analysis. My interests focus on business analytics, data science, and machine learning.
+
+I have experience in data cleaning, statistical analysis, and data visualization, and I enjoy using data to solve real-world business problems.
+
+Explore my projects, CV, and contact information using the navigation bar above.
