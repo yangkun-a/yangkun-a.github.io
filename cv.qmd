@@ -1,0 +1,13 @@
+---
+title: "CV"
+---
+
+# Curriculum Vitae
+
+You can download my CV using the link below.
+
+[Download My CV](CV.pdf)
+
+## Professional Background
+
+I am interested in business analytics, data science, and applied machine learning. My academic and project experience includes data cleaning, visualization, statistical analysis, and machine learning applications.

@@ -1,0 +1,11 @@
+---
+title: "Projects"
+---
+
+# Projects
+
+## AD688 Employability Project
+
+[View Project](https://yangkun-a.github.io/ad688-employability-sp26A1-group2/)
+
+This project analyzes job postings data to understand salary trends and skill demand.
